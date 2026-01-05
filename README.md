@@ -1,2 +1,2 @@
 # Phaser_First
-Phaser+TSでの最初のぷろじぇくと
+個人学習用
